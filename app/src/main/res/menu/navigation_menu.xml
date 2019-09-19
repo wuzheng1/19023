@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="广播" android:id="@+id/broad" ></item>
+    <item android:title="通知" android:id="@+id/notification" ></item>
+    <item android:title="上传" android:id="@+id/upload" ></item>
+    <item android:title="下载" android:id="@+id/download" ></item>
+
+</menu>
